@@ -1,16 +1,21 @@
-# 🚧 README em construção 🚧
+# Projeto MongoDB Commerce
 
-<!-- Olá, Tryber!
+Esse projeto foi realizado para exercitar o que foi aprendido no Bloco 29 do Módulo de Back End do curso da [Trybe](https://www.betrybe.com/), no qual foi abordado assuntos sobre o banco NoSQL MongoDB, como: `métodos para manipulação de dados`, `filter operators`, `operadores de consulta`, `updates simples` e `updates complexos`.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Nesse projeto o objetivo foi utilizar operações de CRUD (create, read, update, delete) para manipulação dos dados no sistema de gerenciamento de banco de dados MongoDB .
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Tecnologias
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+  - MongoDB
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Como executar
 
--->
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_31-MongoDB_Commerce.git
+
+$ cd Trybe-Projeto_31-MongoDB_Commerce
+```
+
+As queries se encontram no diretório `./challenges`.
